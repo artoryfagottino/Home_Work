@@ -1,0 +1,15 @@
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/bin/Debug/net6.0/CinemaEdvazer
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/bin/Debug/net6.0/CinemaEdvazer.deps.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/bin/Debug/net6.0/CinemaEdvazer.runtimeconfig.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/bin/Debug/net6.0/CinemaEdvazer.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/bin/Debug/net6.0/ref/CinemaEdvazer.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/bin/Debug/net6.0/CinemaEdvazer.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.csproj.AssemblyReference.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.AssemblyInfoInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.AssemblyInfo.cs
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.csproj.CoreCompileInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/ref/CinemaEdvazer.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/CinemaEdvazer/obj/Debug/net6.0/CinemaEdvazer.genruntimeconfig.cache
