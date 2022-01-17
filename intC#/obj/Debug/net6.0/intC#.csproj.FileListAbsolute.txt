@@ -1,0 +1,15 @@
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/bin/Debug/net6.0/intC#
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/bin/Debug/net6.0/intC#.deps.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/bin/Debug/net6.0/intC#.runtimeconfig.json
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/bin/Debug/net6.0/intC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/bin/Debug/net6.0/ref/intC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/bin/Debug/net6.0/intC#.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.csproj.AssemblyReference.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.AssemblyInfoInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.AssemblyInfo.cs
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.csproj.CoreCompileInputs.cache
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/ref/intC#.dll
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.pdb
+/Users/artoryfagottinogmail.com/Desktop/GeekBrains/Home_Work/intC#/obj/Debug/net6.0/intC#.genruntimeconfig.cache
